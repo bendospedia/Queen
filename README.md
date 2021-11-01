@@ -1,2 +1,2 @@
 # Queen
-<a href="https://jakethijaber.xyz" rell="follow">jakethijaber.xyz</a>
+<a href="https://jakethijaber.xyz" rel="follow">jakethijaber.xyz</a>
